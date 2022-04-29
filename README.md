@@ -53,3 +53,8 @@ Following are the early findings from MySQL data exploration.
  - EDA
  - SQL
  - Visualization tool knowledge
+
+### Approach 
+The AIMS grid was used to design and create the groundwork for a successful implementation before starting the project.
+![AIMs Grid - AtliQ Hardware](https://github.com/Lourdemary/DataAnalysisProject/blob/main/Roadmap%20Timeline%20Process%20Infographic%20Graph.png?raw=true)
+
